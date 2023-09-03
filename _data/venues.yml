@@ -4,3 +4,28 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+  
+"BJPS":
+   url: https://www.journals.uchicago.edu/toc/bjps/current
+   color: "#00369f"
+   
+"PSA":
+  url: https://www.cambridge.org/core/journals/philosophy-of-science
+  color: "#731d2c"
+  
+"Synthese":
+  url: https://www.springer.com/journal/11229
+  color: "#8bb3ab"
+  
+"Lingnan":
+  color: "#e31f26"
+   
+"OSU":
+  color: "#BB0000"
+"Axiomathes":
+  color: "#1b93a3"
+  url: https://www.springer.com/journal/10516
+  
+"AsJP":
+  url: "https://www.springer.com/journal/44204"
+  color: "#f8cce3"
