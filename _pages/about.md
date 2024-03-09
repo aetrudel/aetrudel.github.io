@@ -23,4 +23,6 @@ I'm a philosopher of science, thinking about computer science, AI, and mathemati
 
 Right now I'm a postdoctoral fellow working on [the Philosophy of Contemporary and Future Science](https://www.pocfs.org) and a fellow at the [Hong Kong Catastrophic Risk Center](https://www.ln.edu.hk/philoso/hkcrc/). Before, I was a graduate student at [Ohio State](https://philosophy.osu.edu).
 
+Beginning Fall 2024, I will be an Assistant Professor of Philosophy at the [University of Cincinnati](https://www.artsci.uc.edu/departments/philosophy.html).
+
 You can contact me at [ae.trudel@gmail.com](ae.trudel@gmail.com).

@@ -17,8 +17,12 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: 'Source Serif 4', serif;
+  font-family: 'Arial';
 }
+
+/*
+* font-family: 'Source Serif 4', serif;
+*/
 
 hr {
   border-top: 1px solid var(--global-divider-color);
